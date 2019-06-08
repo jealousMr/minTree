@@ -1,0 +1,13 @@
+INPUT(
+./release\animationbutton.o
+./release\edgenode.o
+./release\main.o
+./release\minheap.o
+./release\titlebar.o
+./release\un.o
+./release\widget.o
+./release\qrc_res.o
+./release\moc_animationbutton.o
+./release\moc_titlebar.o
+./release\moc_widget.o
+);

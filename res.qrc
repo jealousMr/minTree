@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>tree1.png</file>
+        <file>tree2.png</file>
+        <file>tree3.png</file>
+        <file>tree4.png</file>
+        <file>0_008.png</file>
+        <file>1_008.png</file>
+        <file>2_008.png</file>
+        <file>3_008.png</file>
+        <file>4_008.png</file>
+        <file>5_008.png</file>
+        <file>6_008.png</file>
+        <file>7_008.png</file>
+        <file>8_008.png</file>
+        <file>9_008.png</file>
+        <file>v-home-ico-home.png</file>
+        <file>v-home-ico-contact.png</file>
+        <file>v-home-ico-img.png</file>
+        <file>v-home-ico-record.png</file>
+        <file>lefe.png</file>
+        <file>sum1.png</file>
+        <file>sum2.png</file>
+        <file>sum3.png</file>
+        <file>re.png</file>
+        <file>window_close_hover.png</file>
+        <file>window_close_normal.png</file>
+        <file>window_close_press.png</file>
+        <file>window_min_hover.png</file>
+        <file>window_min_normal.png</file>
+        <file>window_min_press.png</file>
+        <file>window_option_hover.png</file>
+        <file>window_option_normal.png</file>
+        <file>window_option_press.png</file>
+    </qresource>
+</RCC>

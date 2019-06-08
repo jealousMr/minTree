@@ -1,0 +1,13 @@
+INPUT(
+./debug\animationbutton.o
+./debug\edgenode.o
+./debug\main.o
+./debug\minheap.o
+./debug\titlebar.o
+./debug\un.o
+./debug\widget.o
+./debug\qrc_res.o
+./debug\moc_animationbutton.o
+./debug\moc_titlebar.o
+./debug\moc_widget.o
+);
